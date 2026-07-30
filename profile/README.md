@@ -6,7 +6,7 @@
 
 ## Deployments
 
-**All deployments now ship from `main`.** Nothing deploys from any other branch.
+**All deployments should ship from `main`.**
 
 ## Git Workflow
 
