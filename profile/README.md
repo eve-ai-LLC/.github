@@ -32,7 +32,7 @@ Quick version:
 | **AthleteTrack** | [Repo](https://github.com/eve-ai-LLC/AthleteTrack.git) | [NOT Live](ADD_PROD_LINK_HERE) |
 | **EveRag** | [Repo](https://github.com/eve-ai-LLC/RAG-on-steroids.git) | [Live](https://api.eve-insight.ai) |
 | **Eve Website** | [Repo](https://github.com/eve-ai-LLC/eve.ai-website-update.git) | [Live](https://eve-insight.ai) |
-| **Big Goals** | [Repo](TBD) | [Live](https://insidebiggoals-mvp-frontend-final.onrender.com/) |
+| **Big Goals** | [Repo](https://github.com/eve-ai-LLC/Avatar-coach.git) | [Live](https://d2jpxzvtj0j0ub.cloudfront.net/) |
 | **StrandAI – POC** | [Repo](https://github.com/eve-ai-LLC/strand.ai-POC-app.git) | [Live](https://strandai-poc-frontend.onrender.com/) |
 | **Secretariat Monitoring** | [Repo](https://github.com/eve-ai-LLC/Secretariat-monitor-eve-multi.git) | [Live](https://si-dev.secretariat-intl.com/dashboard-costs) |
 | **Secretariat Doc Processing** | [Repo](https://github.com/eve-ai-LLC/Secretariat-doc-processing.git) | [NOT Live](ADD_PROD_LINK_HERE) |
